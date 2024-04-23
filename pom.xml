@@ -20,6 +20,7 @@
         <module>orderservice</module>
         <module>inventoryservice</module>
         <module>discovery-server</module>
+        <module>api-gateway</module>
     </modules>
 
     <properties>
